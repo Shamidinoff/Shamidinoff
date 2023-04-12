@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a beginner frontend developer. I love to learn and develop.
+I am a beginner front-end developer. I love to learn and develop.
 
 ### My Tech Stack:
 
