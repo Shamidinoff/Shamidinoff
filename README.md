@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a frontend developer. I love to code, learn and develop..
+I am a frontend developer. I love to code, learn and develop...
 
 ### My Tech Stack:
 
