@@ -1,5 +1,5 @@
 ### Hi there 👋
-"Stay hungry, stay foolish".
+✅ 👨‍💻 "Stay hungry, stay foolish".
 
 ### My Tech Stack:
 
