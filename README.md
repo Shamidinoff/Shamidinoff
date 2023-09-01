@@ -1,4 +1,4 @@
-### Stay hungry, stay foolish 👋
+### Stay hungry, stay foolish. 👋
 
 ### Hard Skills:
 
